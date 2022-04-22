@@ -9,6 +9,17 @@ body {
     line-height: 1.4;
 }
 
+a,
+a:focus,
+a:visited {
+    color: #d92310;
+    text-decoration-thickness: 2px;
+}
+
+a:hover {
+    color: #e87d3e;
+}
+
 .content {
     max-width: 720px;
     margin: 0 auto;
