@@ -5,9 +5,11 @@ html {
 body {
     margin: 60px auto;
     font-family: 'Ubuntu', sans-serif;
+    font-size: 18px;
+    line-height: 1.4;
 }
 
 .content {
-    max-width: 660px;
+    max-width: 720px;
     margin: 0 auto;
 }
