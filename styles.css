@@ -23,6 +23,7 @@ a:hover {
 .content {
     max-width: 720px;
     margin: 0 auto;
+    padding: 0 25px;
 }
 
 .book {
