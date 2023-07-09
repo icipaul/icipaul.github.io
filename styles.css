@@ -33,6 +33,20 @@ a:hover {
     border-radius: 15px;
 }
 
+img.in-text {
+    margin: 0;
+    max-width: 30%;
+}
+
+img.left {
+    float: left;
+    margin-right: 15px;
+}
+
+img.right {
+    float: right;
+    margin-left: 15px;
+
 .book {
     position: relative;
     margin: 35px 0;
