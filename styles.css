@@ -34,7 +34,7 @@ a:hover {
 }
 
 img.in-text {
-    margin: 0;
+    margin: 0 0 15px;
     max-width: 30%;
 }
 
@@ -46,6 +46,7 @@ img.left {
 img.right {
     float: right;
     margin-left: 15px;
+}
 
 .book {
     position: relative;
