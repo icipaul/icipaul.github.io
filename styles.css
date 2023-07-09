@@ -26,6 +26,13 @@ a:hover {
     padding: 0 25px;
 }
 
+.content > img {
+    display: block;
+    margin: 25px auto;
+    max-width: 95%;
+    border-radius: 15px;
+}
+
 .book {
     position: relative;
     margin: 35px 0;
